@@ -1,0 +1,52 @@
+.hero_Div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.hero_Div a{
+    width: 10%;
+    text-decoration: none;
+}
+
+.instagramButton{
+    margin: 10%;
+    margin-left: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    background-color: whitesmoke;
+    cursor: pointer;
+    border: 1px solid rgb(233, 230, 230);
+    width: 100%;
+
+}
+
+
+
+.instaIcon{
+    margin: 5%;
+    width: 18px;
+    height: 18px;
+}
+
+.instagramP{
+    text-decoration: none;
+}
+
+@media (max-width: 900px) {
+
+    .hero_Div a{
+        width: 35%;
+        text-decoration: none;
+    }
+    .instagramButton{
+        
+        width: 100%;
+
+    }
+      
+    }
