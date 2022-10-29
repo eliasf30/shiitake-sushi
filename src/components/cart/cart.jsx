@@ -57,7 +57,7 @@ export default function Cart() {
     const text = `hola, mi nombre es: ${client.nombre}%0D%0Ami direccion es: ${client.direccion}%0D%0Ami numero telefonico es: ${client.telefono}%0D%0A%0D%0Aquiero ordenar:%0D%0A${[productos]}%0D%0Acomentarios adicionales: ${(client.comentario !== "") ? client.comentario : "ninguno"}`
 
 
-    const link = `https://api.whatsapp.com/send?phone=+3512518967&text=${text.replace(" ", "%20")}`
+    const link = `https://api.whatsapp.com/send?phone=5493513284861&text=${text.replace(" ", "%20")}`
 
 
 
@@ -139,9 +139,9 @@ export default function Cart() {
                             <h3>Telefono:&nbsp; </h3>
                             <h4>{client.telefono}</h4>
                         </div>
-                        <div className="infoClientDivs">
-                            <h3>Comentarios:&nbsp; </h3>
-                            <h4>{client.comentario}</h4>
+                        <div >
+                            <h3 className="infoClientDivs">Comentarios:&nbsp; </h3>
+                            <h4 className="comentario">{client.comentario}</h4>
                         </div>
                     </div>
 

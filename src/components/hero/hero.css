@@ -25,6 +25,14 @@
 
 }
 
+.instagramButton:hover{
+    width: 103%;
+
+    margin-left: -1%;
+    transition: .3s;
+    border: 1px solid gray;
+}
+
 
 
 .instaIcon{
