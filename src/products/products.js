@@ -483,7 +483,7 @@ export const products = [
         title:"Gohan sake (600gr)",
         category:"Comida oriental" ,
         image:product20,
-        price:1400,
+        price:1500,
         description:[`Salmon (crudo)
 
         Kanikama
@@ -507,7 +507,7 @@ export const products = [
         title:"Gohan completo",
         category:"Comida oriental" ,
         image:product21,
-        price:1400,
+        price:1500,
         description:[`Langostinos
 
         Salmón
@@ -549,7 +549,7 @@ export const products = [
         title:"Gohan limeño",
         category:"Comida fusion" ,
         image:product23,
-        price:1400,
+        price:1500,
         description:[`Langostinos crispy,salmon crocante,crema a la huancaina,cilantro,finlandia palta y maiz cancha.`],
     },
     {
