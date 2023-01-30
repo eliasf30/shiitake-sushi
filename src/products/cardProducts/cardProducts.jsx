@@ -12,7 +12,7 @@ export default function CardProduct({ image, title, price, description, id }) {
 
             <h2 className="title">{title}</h2>
             <img src={image} />
-            <h3>${price}</h3>
+            {(price !=="")? <h3>${price}</h3>:<><br/> <br/> <br/> </> }
             <div className="descriptionDiv">
                 {
                     description.map(desc => <p>{desc}</p>)
