@@ -31,6 +31,7 @@ import product30 from "./images/product30.jpg"
 import product31 from "./images/product31.jpg"
 import product32 from "./images/product32.jpg"
 import product33 from "./images/product33.jpg"
+import product34 from "./images/product34.jpg"
 
 
 
@@ -619,6 +620,22 @@ export const products = [
         Hot skin
         
         Hot ebi`],
+    },
+    {
+        id: 34,
+        title:"gyozas x4",
+        category:"Entradas" ,
+        image:product34,
+        price:890,
+        description:[`Gyozas de cerdo acompañada con salsa especial`],
+    },
+    {
+        id: 35,
+        title:"gyozas x6",
+        category:"Entradas" ,
+        image:product34,
+        price:1200,
+        description:[`Gyozas de cerdo acompañada con salsa especial`],
     },
     
 ]
