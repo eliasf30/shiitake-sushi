@@ -44,13 +44,13 @@ export const products = [
         image: product1,
         price:2100,
         description:[
-        `💥SPF roll.......(salmon,palta y finladia)` ,
+        `💥SPF roll.......(salmon, palta y finladia)` ,
 
-        `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+        `💥EBI roll.........(langostinos, finlandia y verdeo)`,
         
-        `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+        `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
         
-        `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+        `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
         
         `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
         
@@ -58,13 +58,13 @@ export const products = [
         
         `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
         
-        `💥LPF roll............(Langostinos,palta y finlandia)`,
+        `💥LPF roll............(Langostinos, palta y finlandia)`,
         
         `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
         
         `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
         
-        `📌Este combinado incluye: 2 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+        `📌Este combinado incluye: 2 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     
     {
@@ -74,13 +74,13 @@ export const products = [
         image:product2,
         price:3000,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -88,13 +88,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 3 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 3 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
    
     {
@@ -104,13 +104,13 @@ export const products = [
         image:product3,
         price:3900,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -118,13 +118,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 4 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 4 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 4,
@@ -133,13 +133,13 @@ export const products = [
         image:product4,
         price:4900,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -147,13 +147,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 5 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 5 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 5,
@@ -162,13 +162,13 @@ export const products = [
         image: product5,
         price:5900,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -176,13 +176,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 6 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 6 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 6,
@@ -191,13 +191,13 @@ export const products = [
         image:product6,
         price:6900,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -205,13 +205,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 7 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 7 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 7,
@@ -220,13 +220,13 @@ export const products = [
         image:product7,
         price:7900,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -234,13 +234,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 8 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 8 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 8,
@@ -249,13 +249,13 @@ export const products = [
         image:product8,
         price:9000,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -263,13 +263,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 9 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 9 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 9,
@@ -278,13 +278,13 @@ export const products = [
         image:product9,
         price:10000,
         description:[
-            `💥SPF roll.......(salmon,palta y finladia)` ,
+            `💥SPF roll.......(salmon, palta y finladia)` ,
     
-            `💥EBI roll.........(langostinos,finlandia y verdeo)`,
+            `💥EBI roll.........(langostinos, finlandia y verdeo)`,
             
-            `💥SKIN roll........(salmon con piel,finlandia y verdeo)`,
+            `💥SKIN roll........(salmon con piel, finlandia y verdeo)`,
             
-            `💥VEGGIE roll.....(palta,pepino,morron ahumado y finlandia)`,
+            `💥VEGGIE roll.....(palta, pepino, morron ahumado y finlandia)`,
             
             `💥HOSOMAKI.......(salmon con alga nori por fuera)`,
             
@@ -292,13 +292,13 @@ export const products = [
             
             `💥ROSHI Roll........(langostinos crispy, finlandia y ciboulette`,
             
-            `💥LPF roll............(Langostinos,palta y finlandia)`,
+            `💥LPF roll............(Langostinos, palta y finlandia)`,
             
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
-            `📌Este combinado incluye: 10 variedades,wasabi,palitos chinos y salsa de soja o teriyaki.`]
+            `📌Este combinado incluye: 10 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`]
     },
     {
         id: 30,
@@ -394,7 +394,7 @@ export const products = [
         category:"Comida peruana" ,
         image:product10,
         price:1300,
-        description:[`Salteado de arroz tipico peruano.Contiene pollo, salchicha,pimiento rojo,verdeo y jengibre,bañado en salsa de soja.Acompañado de un omelette`],
+        description:[`Salteado de arroz tipico peruano. Contiene pollo, salchicha, pimiento rojo, verdeo y jengibre, bañado en salsa de soja. Acompañado de un omelette`],
     },
     {
         id: 11,
@@ -410,7 +410,7 @@ export const products = [
         category:"Comida peruana" ,
         image:product12,
         price:2900,
-        description:[`Ceviche de salmon y langostinos frescos con batata,choclo,maiz cancha y cilantro.`],
+        description:[`Ceviche de salmon y langostinos frescos con batata, choclo, maiz cancha y cilantro.`],
     },
     {
         id: 13,
@@ -438,7 +438,7 @@ export const products = [
 
         Mas 8 sashimi de salmon en forma de rosa.
         
-        Contiene wasabi,palitos chinos y salsa de soja o teriyaky`],
+        Contiene wasabi, palitos chinos y salsa de soja o teriyaky`],
     },
     {
         id: 16,
@@ -446,11 +446,11 @@ export const products = [
         category:"" ,
         image:product16,
         price:1450,
-        description:[`Maki con palta, morron ahumado, pepino y finlandia.vestido con ciboulette y semillas tostadas.
+        description:[`Maki con palta, morron ahumado, pepino y finlandia. vestido con ciboulette y semillas tostadas.
 
-        Tamago(huevo) con tomate sin piel, palta y finlandia
+        Tamago(huevo) con tomate sin piel, palta y finlandia.
         
-        El combinado incluye palitos chinos,wasabi y salsa de soja o teriyaki.`],
+        El combinado incluye palitos chinos, wasabi y salsa de soja o teriyaki.`],
     },
     {
         id: 17,
@@ -550,7 +550,7 @@ export const products = [
         category:"Comida fusion" ,
         image:product23,
         price:1700,
-        description:[`Langostinos crispy,salmon crocante,crema a la huancaina,cilantro,finlandia palta y maiz cancha.`],
+        description:[`Langostinos crispy, salmon crocante, crema a la huancaina, cilantro, finlandia palta y maiz cancha.`],
     },
     {
         id: 24,
@@ -596,7 +596,7 @@ export const products = [
         category:"Comida oriental" ,
         image:product27,
         price:"",
-        description:[`Caldo de res con miso y fideos frescos con choclo,verdeo y naruto.`],
+        description:[`Caldo de res con miso y fideos frescos con choclo, verdeo y naruto.`],
     },
     {
         id: 28,
@@ -604,7 +604,7 @@ export const products = [
         category:"Comida oriental" ,
         image:product28,
         price:"",
-        description:[`Caldo de res con miso,fideos frescos,hongos shiitake,solomillo de cerdo con base wok,choclo,verdeo y naruto.`],
+        description:[`Caldo de res con miso, fideos frescos, hongos shiitake, solomillo de cerdo con base wok, choclo, verdeo y naruto.`],
     },
     {
         id: 29,
