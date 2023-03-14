@@ -458,7 +458,7 @@ export const products = [
         title:"Empanadas chinas",
         category:"Entradas" ,
         image:product17,
-        price:170,
+        price:190,
         description:[`Empanada china de carne y/o verdura.
 
         Por Unidad.`],
@@ -468,7 +468,7 @@ export const products = [
         title:"Empanadas chinas x4",
         category:"Entradas" ,
         image:product18,
-        price:650,
+        price:750,
         description:[`Empanadas chinas de carne y/o verdura.`],
     },
     {
@@ -476,7 +476,7 @@ export const products = [
         title:"Empanadas chinas x6",
         category:"Entradas" ,
         image:product19,
-        price:900,
+        price:1100,
         description:[`Empanadas chinas de carne y/o verdura.`],
     },
     {
@@ -484,7 +484,7 @@ export const products = [
         title:"Gohan sake (600gr)",
         category:"Comida oriental" ,
         image:product20,
-        price:1700,
+        price:1800,
         description:[`Salmon (crudo)
 
         Kanikama
@@ -508,7 +508,7 @@ export const products = [
         title:"Gohan completo",
         category:"Comida oriental" ,
         image:product21,
-        price:1700,
+        price:1800,
         description:[`Langostinos
 
         Salmón
@@ -530,7 +530,7 @@ export const products = [
         title:"Gohan ebi (600gr)",
         category:"Comida oriental" ,
         image:product22,
-        price:1400,
+        price:1500,
         description:[`Langostinos
 
         Kanikama
