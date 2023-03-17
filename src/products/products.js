@@ -530,7 +530,7 @@ export const products = [
         title:"Gohan ebi (600gr)",
         category:"Comida oriental" ,
         image:product22,
-        price:1500,
+        price:1600,
         description:[`Langostinos
 
         Kanikama
@@ -550,7 +550,7 @@ export const products = [
         title:"Gohan limeño",
         category:"Comida fusion" ,
         image:product23,
-        price:1700,
+        price:1800,
         description:[`Langostinos crispy, salmon crocante, crema a la huancaina, cilantro, finlandia palta y maiz cancha.`],
     },
     {
@@ -558,7 +558,7 @@ export const products = [
         title:"Gohan tory (600gr)",
         category:"Comida oriental" ,
         image:product24,
-        price:1600,
+        price:1800,
         description:[`Langostino crispy
 
         Pollo teriyaki
