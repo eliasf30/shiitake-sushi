@@ -624,7 +624,7 @@ export const products = [
         title:"Roll Calientes",
         category:"Sushi" ,
         image:product29,
-        price:1300,
+        price:1400,
         description:[`Hot veggie
 
         Hot phila
