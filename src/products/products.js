@@ -44,7 +44,7 @@ export const products = [
         title:"16 piezas (2 variedades)",
         category:"Sushi" ,
         image: product1,
-        price:2300,
+        price:2400,
         description:[
         `💥SPF roll.......(salmon, palta y finladia)` ,
 
@@ -79,7 +79,7 @@ export const products = [
         title:"24 piezas (3 variedades)",
         category:"Sushi" ,
         image:product2,
-        price:3400,
+        price:3500,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -190,7 +190,7 @@ export const products = [
         title:"48 piezas (6 variedades)",
         category:"Sushi" ,
         image: product5,
-        price:6900,
+        price:7200,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -228,7 +228,7 @@ export const products = [
         title:"56 piezas (7 variedades)",
         category:"Sushi" ,
         image:product6,
-        price:8200,
+        price:8500,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -266,7 +266,7 @@ export const products = [
         title:"64 piezas (8 variedades)",
         category:"Sushi" ,
         image:product7,
-        price:9500,
+        price:9900,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -304,7 +304,7 @@ export const products = [
         title:"72 piezas (9 variedades)",
         category:"Sushi" ,
         image:product8,
-        price:10800,
+        price:11300,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -342,7 +342,7 @@ export const products = [
         title:"80 piezas (10 variedades)",
         category:"Sushi" ,
         image:product9,
-        price:12300,
+        price:12800,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -381,7 +381,7 @@ export const products = [
         title:"16 piezas de salmon",
         category:"Sushi" ,
         image:product30,
-        price:3800,
+        price:3900,
         description:[
             `💥 SPF`,
 
@@ -408,7 +408,7 @@ export const products = [
         title:"24 piezas de salmon",
         category:"Sushi" ,
         image:product31,
-        price:5500,
+        price:5600,
         description:[
             `💥 SPF`,
 
@@ -435,7 +435,7 @@ export const products = [
         title:"32 piezas de salmon",
         category:"Sushi" ,
         image:product32,
-        price:7400,
+        price:7500,
         description:[
             `💥 SPF`,
 
@@ -461,7 +461,7 @@ export const products = [
         title:"40 piezas de salmon",
         category:"Sushi" ,
         image:product33,
-        price:9200,
+        price:9500,
         description:[
             `💥 SPF,
 
@@ -705,7 +705,7 @@ export const products = [
         title:"Roll Calientes",
         category:"Sushi" ,
         image:product29,
-        price:1500,
+        price:1600,
         description:[`Hot veggie
 
         Hot phila
@@ -719,7 +719,7 @@ export const products = [
         title:"Roll de Salmon",
         category:"Sushi" ,
         image:product29,
-        price:1800,
+        price:1900,
         description:[`Hot veggie
 
         Hot phila
