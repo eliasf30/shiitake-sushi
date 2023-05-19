@@ -65,6 +65,10 @@ export const products = [
         `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
         
         `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
+
+        `💥Caribe ..........salmon,palta finlandia y mango`,
+        
+        `💥Sake roll.....salmon,finlandia y ciboulette`,
         
         `📌Este combinado incluye: 2 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
         `⠀📌 1 variedad de salmon `]
@@ -96,9 +100,13 @@ export const products = [
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
+
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
             
             `📌Este combinado incluye: 3 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 1 variedad de salmon `]
+            `⠀📌 1 variedad maximo de salmon `]
     },
    
     {
@@ -127,9 +135,17 @@ export const products = [
             `💥Cheese Ebi roll........(langostinos y palta vestido con queso y crocante)`,
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
+
+            `💥California.............kanikama,palta`,
+
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
             
             `📌Este combinado incluye: 4 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 2 variedades de salmon `]
+            `⠀📌 2 variedades maximo de salmon `]
     },
     {
         id: 4,
@@ -158,8 +174,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 5 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 2 variedades de salmon `]
+            `⠀📌 2 variedades maximo de salmon `]
     },
     {
         id: 5,
@@ -188,8 +212,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 6 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 3 variedades de salmon `]
+            `⠀📌 3 variedades maximo de salmon `]
     },
     {
         id: 6,
@@ -218,8 +250,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 7 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 3 variedades de salmon `]
+            `⠀📌 3 variedades maximo de salmon `]
     },
     {
         id: 7,
@@ -248,8 +288,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 8 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 4 variedades de salmon `]
+            `⠀📌 4 variedades maximo de salmon `]
     },
     {
         id: 8,
@@ -278,8 +326,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 9 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 4 variedades de salmon `]
+            `⠀📌 4 variedades maximo de salmon `]
     },
     {
         id: 9,
@@ -308,8 +364,16 @@ export const products = [
             
             `💥NIGUIRI...........de salmon o skin(salmon cn piel) 4 unidades`,
             
+            `💥California.............kanikama,palta`,
+            
+            `💥Tamago.............salmon,finlandia y ciboulette `,
+            
+            `💥Caribe ..........salmon,palta finlandia y mango`,
+            
+            `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
             `📌Este combinado incluye: 10 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
-            `⠀📌 5 variedades de salmon `
+            `⠀📌 5 variedades maximo de salmon `
         ]
     },
     {
@@ -333,6 +397,10 @@ export const products = [
         
         ` 💥Hosomaki`,
         
+        ` 💥Tamago ebi.`,
+
+        ` 💥Caribe.`,
+        
         ],
     },
     {
@@ -355,6 +423,11 @@ export const products = [
         ` 💥Skin roll` ,
         
         ` 💥Hosomaki`,
+
+        ` 💥Tamago ebi.`,
+
+        ` 💥Caribe.`,
+        
         ],
     },
     {
@@ -377,6 +450,10 @@ export const products = [
         ` 💥Skin roll` ,
         
         ` 💥Hosomaki`,
+
+        ` 💥Tamago ebi.`,
+
+        ` 💥Caribe.`,
         ],
     },
     {
@@ -388,17 +465,21 @@ export const products = [
         description:[
             `💥 SPF,
 
-         💥Sake roll,
+        💥Sake roll,
         
         💥Niguiri,
         
-         💥Tamago,
+        💥Tamago,
         
-         💥Cheese roll,
+        💥Cheese roll,
         
-         💥Skin roll,
+        💥Skin roll,
         
-         💥Hosomaki`
+        💥Hosomaki,
+
+        💥Tamago ebi,
+
+        💥Caribe.`
         ],
     },
     {
