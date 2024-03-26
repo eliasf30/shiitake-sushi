@@ -519,7 +519,7 @@ export const products = [
         title:"Chow fan",
         category:"Comida oriental" ,
         image:product14,
-        price:5900,
+        price:6500,
         description:[`Chow fan de langostinos con arroz koshihikari y vegetales al wok.`],
     },
     {
@@ -585,7 +585,7 @@ export const products = [
         title:"Gohan sake (600gr)",
         category:"Comida oriental" ,
         image:product20,
-        price:8500,
+        price:9000,
         description:[`Salmon (crudo)
 
         Kanikama
@@ -609,7 +609,7 @@ export const products = [
         title:"Gohan completo",
         category:"Comida oriental" ,
         image:product21,
-        price:7500,
+        price:8000,
         description:[`Langostinos
 
         Salmón
@@ -631,7 +631,7 @@ export const products = [
         title:"Gohan ebi (600gr)",
         category:"Comida oriental" ,
         image:product22,
-        price:5500,
+        price:6000,
         description:[`Langostinos
 
         Kanikama
@@ -651,7 +651,7 @@ export const products = [
         title:"Gohan limeño",
         category:"Comida fusion" ,
         image:product23,
-        price:8000,
+        price:8500,
         description:[`Langostinos crispy, salmon crocante, crema a la huancaina, cilantro, finlandia palta y maiz cancha.`],
     },
     {
@@ -659,7 +659,7 @@ export const products = [
         title:"Gohan tory (600gr)",
         category:"Comida oriental" ,
         image:product24,
-        price:7000,
+        price:7500,
         description:[`Langostino crispy
 
         Pollo teriyaki
@@ -681,7 +681,7 @@ export const products = [
         title:"Langostinos crispy",
         category:"" ,
         image:product25,
-        price:7500,
+        price:8000,
         description:[`300 gr |Langostinos rebozados en panko para 2 personas`],
     },
     {
