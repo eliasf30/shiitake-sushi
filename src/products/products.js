@@ -694,7 +694,7 @@ export const products = [
     },
     {
         id: 27,
-        title:"Ramen",
+        title:"Ramen shoyu",
         category:"Comida oriental" ,
         image:product27,
         price:7000,
