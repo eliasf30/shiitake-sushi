@@ -697,7 +697,7 @@ export const products = [
         title:"Ramen",
         category:"Comida oriental" ,
         image:product27,
-        price:2400,
+        price:7000,
         description:[`Caldo de res con miso y fideos frescos con choclo, verdeo y naruto.`],
     },
     {
@@ -705,7 +705,7 @@ export const products = [
         title:"Ramen shiitake",
         category:"Comida oriental" ,
         image:product28,
-        price:6500,
+        price:8500,
         description:[`Caldo de res con miso, fideos frescos, hongos shiitake, solomillo de cerdo con base wok, choclo, verdeo y naruto.`],
     },
     {
