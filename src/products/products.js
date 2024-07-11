@@ -44,7 +44,7 @@ export const products = [
         title:"16 piezas (2 variedades)",
         category:"Sushi" ,
         image: product1,
-        price:9500,
+        price:10500,
         description:[
         `💥SPF roll.......(salmon, palta y finladia)` ,
 
@@ -79,7 +79,7 @@ export const products = [
         title:"24 piezas (3 variedades)",
         category:"Sushi" ,
         image:product2,
-        price:14500,
+        price:16000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -114,7 +114,7 @@ export const products = [
         title:"32 piezas (4 variedades)",
         category:"Sushi" ,
         image:product3,
-        price:19000,
+        price:22000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -152,7 +152,7 @@ export const products = [
         title:"40 piezas (5 variedades)",
         category:"Sushi" ,
         image:product4,
-        price:24000,
+        price:27500,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -190,7 +190,7 @@ export const products = [
         title:"48 piezas (6 variedades)",
         category:"Sushi" ,
         image: product5,
-        price:29000,
+        price:32000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -228,7 +228,7 @@ export const products = [
         title:"56 piezas (7 variedades)",
         category:"Sushi" ,
         image:product6,
-        price:34000,
+        price:38000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -266,7 +266,7 @@ export const products = [
         title:"64 piezas (8 variedades)",
         category:"Sushi" ,
         image:product7,
-        price:39000,
+        price:44000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -304,7 +304,7 @@ export const products = [
         title:"72 piezas (9 variedades)",
         category:"Sushi" ,
         image:product8,
-        price:43000,
+        price:50000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -342,7 +342,7 @@ export const products = [
         title:"80 piezas (10 variedades)",
         category:"Sushi" ,
         image:product9,
-        price:47000,
+        price:56000,
         description:[
             `💥SPF roll.......(salmon, palta y finladia)` ,
     
@@ -381,7 +381,7 @@ export const products = [
         title:"16 piezas de salmon",
         category:"Sushi" ,
         image:product30,
-        price:13500,
+        price:14000,
         description:[
             `💥 SPF`,
 
@@ -408,7 +408,7 @@ export const products = [
         title:"24 piezas de salmon",
         category:"Sushi" ,
         image:product31,
-        price:18500,
+        price:20000,
         description:[
             `💥 SPF`,
 
@@ -435,7 +435,7 @@ export const products = [
         title:"32 piezas de salmon",
         category:"Sushi" ,
         image:product32,
-        price:24500,
+        price:26500,
         description:[
             `💥 SPF`,
 
@@ -461,7 +461,7 @@ export const products = [
         title:"40 piezas de salmon",
         category:"Sushi" ,
         image:product33,
-        price:30500,
+        price:32000,
         description:[
             `💥 SPF,
 
@@ -487,7 +487,7 @@ export const products = [
         title:"Arroz chaufa",
         category:"Comida peruana" ,
         image:product10,
-        price:6500,
+        price:7000,
         description:[`Salteado de arroz tipico peruano. Contiene pollo, salchicha, pimiento rojo, verdeo y jengibre, bañado en salsa de soja. Acompañado de un omelette`],
     },
     {
@@ -519,7 +519,7 @@ export const products = [
         title:"Chow fan",
         category:"Comida oriental" ,
         image:product14,
-        price:7900,
+        price:8500,
         description:[`Chow fan de langostinos con arroz koshihikari y vegetales al wok.`],
     },
     {
@@ -551,7 +551,7 @@ export const products = [
         title:"Empanadas chinas",
         category:"Entradas" ,
         image:product17,
-        price:800,
+        price:1000,
         description:[`Empanada china de carne y/o verdura.
 
         Por Unidad.`],
@@ -561,7 +561,7 @@ export const products = [
         title:"Empanadas chinas x4",
         category:"Entradas" ,
         image:product18,
-        price:3000,
+        price:3700,
         description:[`Empanadas chinas de carne y/o verdura.`],
     },
     {
@@ -569,7 +569,7 @@ export const products = [
         title:"Empanadas chinas x6",
         category:"Entradas" ,
         image:product19,
-        price:4500,
+        price:5500,
         description:[`Empanadas chinas de carne y/o verdura.`],
     },
     {
@@ -577,7 +577,7 @@ export const products = [
         title:"Empanadas chinas x12",
         category:"Entradas" ,
         image:product19,
-        price:8500,
+        price:10500,
         description:[`Empanadas chinas de carne y/o verdura.`],
     },
     {
@@ -585,7 +585,7 @@ export const products = [
         title:"Gohan sake (600gr)",
         category:"Comida oriental" ,
         image:product20,
-        price:11000,
+        price:12000,
         description:[`Salmon (crudo)
 
         Kanikama
@@ -609,7 +609,7 @@ export const products = [
         title:"Gohan completo",
         category:"Comida oriental" ,
         image:product21,
-        price:9500,
+        price:10000,
         description:[`Langostinos
 
         Salmón
@@ -631,7 +631,7 @@ export const products = [
         title:"Gohan ebi (600gr)",
         category:"Comida oriental" ,
         image:product22,
-        price:7500,
+        price:8500,
         description:[`Langostinos
 
         Kanikama
@@ -651,7 +651,7 @@ export const products = [
         title:"Gohan limeño",
         category:"Comida fusion" ,
         image:product23,
-        price:10000,
+        price:10500,
         description:[`Langostinos crispy, salmon crocante, crema a la huancaina, cilantro, finlandia palta y maiz cancha.`],
     },
     {
@@ -713,7 +713,7 @@ export const products = [
         title:"Roll Calientes",
         category:"Sushi" ,
         image:product36,
-        price:6000,
+        price:6500,
         description:[`Hot veggie
 
         Hot phila
@@ -727,7 +727,7 @@ export const products = [
         title:"Roll caliente de salmon ",
         category:"Sushi" ,
         image:product29,
-        price:7000,
+        price:7500,
         description:[`Hot veggie
 
         Hot phila
