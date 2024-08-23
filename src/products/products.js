@@ -495,7 +495,7 @@ export const products = [
         title:"Ceviche",
         category:"Comida peruana" ,
         image:product11,
-        price:3900,
+        price:11500,
         description:[`Con pesca blanca.`],
     },
     {
@@ -503,7 +503,7 @@ export const products = [
         title:"Ceviche SHITAKE",
         category:"Comida peruana" ,
         image:product12,
-        price:3800,
+        price:17000,
         description:[`Ceviche de salmon y langostinos frescos con batata, choclo, maiz cancha y cilantro.`],
     },
     {
@@ -511,7 +511,7 @@ export const products = [
         title:"Ceviche mixto",
         category:"Comida peruana" ,
         image:product13,
-        price:5000,
+        price:14000,
         description:[`Pesca blanca y langostinos.`],
     },
     {
@@ -689,7 +689,7 @@ export const products = [
         title:"Rabas",
         category:"Entradas" ,
         image:product26,
-        price:2200,
+        price:9000,
         description:[`Entrada para 2 personas`],
     },
     {
