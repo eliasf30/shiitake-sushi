@@ -69,6 +69,10 @@ export const products = [
         `💥Caribe ..........salmon,palta finlandia y mango`,
         
         `💥Sake roll.....salmon,finlandia y ciboulette`,
+
+        `💥California.............kanikama,palta`,
+
+        `💥Tamago.............salmon,finlandia y ciboulette `,
         
         `📌Este combinado incluye: 2 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
         `⠀📌 1 variedad de salmon `]
@@ -104,6 +108,10 @@ export const products = [
             `💥Caribe ..........salmon,palta finlandia y mango`,
 
             `💥Sake roll.....salmon,finlandia y ciboulette`,
+            
+            `💥California.............kanikama,palta`,
+
+            `💥Tamago.............salmon,finlandia y ciboulette `,
             
             `📌Este combinado incluye: 3 variedades, wasabi, palitos chinos y salsa de soja o teriyaki.`,
             `⠀📌 1 variedad maximo de salmon `]
