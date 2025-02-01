@@ -495,7 +495,7 @@ export const products = [
         title:"Arroz chaufa",
         category:"Comida peruana" ,
         image:product10,
-        price:8000,
+        price:9000,
         description:[`Salteado de arroz tipico peruano. Contiene pollo, salchicha, pimiento rojo, verdeo y jengibre, bañado en salsa de soja. Acompañado de un omelette`],
     },
     {
@@ -559,7 +559,7 @@ export const products = [
         title:"Empanadas chinas",
         category:"Entradas" ,
         image:product17,
-        price:1500,
+        price:1700,
         description:[`Empanada china de carne y/o verdura.
 
         Por Unidad.`],
